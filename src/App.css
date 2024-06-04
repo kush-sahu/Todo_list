@@ -1,0 +1,69 @@
+*{
+  color: rgb(255, 173, 65);
+}
+.div1{
+  background-color: aqua;
+}
+nav{
+  display: flex;
+  background-color: aquamarine;
+  justify-content: space-between;
+}
+#logo{
+   font-size: larger;
+   margin: 15px 15px;
+   font-weight: bold;
+}
+
+.navi{
+  display: flex;
+  font-size: larger;
+  color: rgb(5, 22, 37);
+  margin: 15px 15px;
+  gap: 60px;
+}
+.body1-1{
+  display: flex;
+  
+  height: 70px;
+  /* border: 3px solid red; */
+ justify-content: center;
+  
+  
+}
+.insideboy{
+  display: flex;
+  justify-content: space-between;
+   border: 2px solid rgb(249, 172, 3);
+   width: 70vw;
+   
+  
+}
+.forBody1{
+  font-size: 25px;
+  border: 1px solid rgb(255, 197, 5);
+  margin: 15px 10px;
+  width: 450px;
+  border-radius: 4px;
+}
+.forBody{
+  border-radius: 4px;
+font-size: 25px;
+border: 1px solid rgb(255, 197, 5);
+margin: 15px 10px;
+
+}
+.Navinside{
+  display: flex;
+  border-radius: 4px;
+}
+
+.additional-content{
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 25px;
+  border: 1px solid rgb(9, 7, 7);
+  margin:  auto;
+  width: 70vw;
+}
+
